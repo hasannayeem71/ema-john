@@ -10,4 +10,8 @@
   border: 1px solid gray;
   border-radius: 5px;
   cursor: pointer;
+  margin-top: 5px;
+}
+.star-color {
+  color: #f0c14b;
 }

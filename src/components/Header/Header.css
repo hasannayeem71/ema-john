@@ -1,8 +1,6 @@
 .header {
   text-align: center;
-  position: sticky;
-  top: 0;
-  background-color: white;
+  position: relative;
 }
 .header img {
   height: 50px;
